@@ -1,2 +1,5 @@
-# streamtorrent
-Stream torrent Plugin
+<h1 align="center">
+  <br>
+  Stream torrent plugin
+  <br>
+</h1>
